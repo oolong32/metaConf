@@ -31,7 +31,7 @@ Unter «Webhosting-Zugang» Zugriff auf den Server via SSH  auf `/bin/bash (chro
 Neue Verbindung konfigurieren
 
     Host metanet
-     HostName urbanus.metanet.ch
+     HostName fubar.metanet.ch
      User username
      Port 2121
      # AddKeysToAgent yes
