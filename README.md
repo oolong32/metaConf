@@ -247,9 +247,9 @@ In Vim `:set nopaste`.
 
     remote $ cd ~/.vim/bundle && \
     git clone https://github.com/tpope/vim-sensible.git && \ 
-    remote $ git clone https://tpope.io/vim/surround.git && \ 
-    remote $ git submodule add https://github.com/flazz/vim-colorschemes.git colorschemes && \ 
-    remote $ git clone https://github.com/mattn/emmet-vim.git
+    git clone https://tpope.io/vim/surround.git && \ 
+    git submodule add https://github.com/flazz/vim-colorschemes.git colorschemes && \ 
+    git clone https://github.com/mattn/emmet-vim.git
 
 ---
 
