@@ -2,7 +2,7 @@
 
 ## SSH
 
-### SSH in Plesk ativieren
+### SSH in Plesk ativieren
 
 Unter «Webhosting-Zugang» Zugriff auf den Server via SSH  auf `/bin/bash (chrooted)` setzen.
 
