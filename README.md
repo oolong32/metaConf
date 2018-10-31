@@ -63,7 +63,7 @@ In Vim `:set paste`.
 
     # some more ls aliases
     alias ll='ls -alF'
-    alias la='ls -A'
+    alias la='ls -lah'
     alias l='ls -CF'
 
     # php version
